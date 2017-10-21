@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="symbol" label="Symbol" language="en" table="x_133346_marketman_historicquote">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>symbol</element>
+            <help/>
+            <hint/>
+            <label>Symbol</label>
+            <language>en</language>
+            <name>x_133346_marketman_historicquote</name>
+            <plural>Symbols</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-21 12:53:13</sys_created_on>
+            <sys_id>fab78cc00f0603008fc547bce1050e22</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Symbol</sys_name>
+            <sys_package display_value="MarketManager" source="x_133346_marketman">c162c0880fc203008fc547bce1050eaa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MarketManager">c162c0880fc203008fc547bce1050eaa</sys_scope>
+            <sys_update_name>sys_documentation_x_133346_marketman_historicquote_symbol_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-21 12:53:13</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
